@@ -8,6 +8,7 @@ int main(void)
 	printf("test c!\n");
 	printf("add branch b!\n");
 	printf("add branch b-b!\n");
+	printf("add test stash!\n");
 
 	return 0;
 }
